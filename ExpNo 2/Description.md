@@ -1,6 +1,6 @@
 # Exp no 02 : IMPLEMENT BREADTH FIRST SEARCH TRAVERSAL OF A GRAPH 
-## NAME : DEEPIKA J
-## REGISTER NUMBER : 212221230016
+## NAME : Karthikeyan.K
+## REGISTER NUMBER : 212221230046
 ## AIM:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
 ## THEORY:
