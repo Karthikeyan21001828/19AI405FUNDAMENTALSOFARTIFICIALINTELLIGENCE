@@ -1,6 +1,6 @@
 # Exp no 03 : IMPLEMENT A* SEARCH ALGORITHM FOR A GRAPH 
-## NAME : Karthikeyan.K
-## REGISTER NUMBER : 212221230046
+### NAME : Karthikeyan.K
+### REGISTER NUMBER : 212221230046
 ## AIM:
 To Implement A * Search algorithm for a Graph using Python 3.
 ## ALGORITHM: 
