@@ -9,19 +9,14 @@ To Implement A * Search algorithm for a Graph using Python 3.
 2.  Initialize the closed list
     put the starting node on the open 
     list (you can leave its f at zero)
-
 3.  while the open list is not empty
     a) find the node with the least f on 
        the open list, call it "q"
-
     b) pop q off the open list
-  
     c) generate q's 8 successors and set their 
-       parents to q
-   
+       parents to q   
     d) for each successor
         i) if successor is the goal, stop search
-        
         ii) else, compute both g and h for successor
           successor.g = q.g + distance between 
                               successor and q
@@ -45,12 +40,8 @@ To Implement A * Search algorithm for a Graph using Python 3.
   
     e) push q on the closed list
     end (while loop)
-
 ## SAMPLE GRAPH:
-
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-
-
 ## SAMPLE INPUT:
 6 6 <br>
 A B 2 <br>
@@ -67,7 +58,6 @@ D 1 <br>
 G 0 <br>
 ## SAMPLE OUTPUT:
 Path found: ['A', 'E', 'D', 'G']
-
 ## PROGRAM:
 ```PYTHON
 from collections import defaultdict
